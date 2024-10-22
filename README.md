@@ -1,5 +1,3 @@
-# Wallace-Tree-Multiplier-using-Ripple-Carry-Adder
-
 # 128-bit Wallace Tree Multiplier using Ripple Carry Adder
 
 ## Overview
